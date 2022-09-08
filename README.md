@@ -11,3 +11,5 @@ Repository for the Python Basics course at KLU
 
 Supporting exercises from the book:
 https://github.com/johnehunt/beginnerspython3.git
+
+You can find the supporting book "A Beginners' Guide to Python 3 Programming" on the KLU Library's website: https://www.the-klu.org/faculty-research/library/
